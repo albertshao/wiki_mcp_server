@@ -1,0 +1,6 @@
+# Smithery deployment config
+mcpServer:
+  name: wiki-mcp-server
+  command: uvicorn
+  args:
+    - src/wiki_mcp_server/server:app

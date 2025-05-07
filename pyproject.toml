@@ -1,0 +1,5 @@
+# Placeholder pyproject.toml
+[tool.poetry]
+name = "wiki-mcp-server"
+version = "0.1.0"
+description = "A Model Context Protocol server for Wiki management."
